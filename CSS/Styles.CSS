@@ -1,0 +1,97 @@
+div {
+  background-color: #b7efcd;
+}
+
+body {
+  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 562.5%;
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  padding: 50px;
+  background-color: #c3edea;
+}
+
+p {
+  font-size: 1.875rem;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.football {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  padding-top:-20px;
+}
+
+.computer {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.bottom-container {
+  background-color: #b7efcd;
+}
+
+.pls{
+  font-size: 170%;
+}
+
+.ball{
+  padding-top: 30px;
+  padding-bottom: 0;
+}
+
+.myButton {
+	box-shadow: 0 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #3d768a;
+  padding-bottom: 20px;
+  
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
